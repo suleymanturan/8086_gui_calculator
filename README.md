@@ -14,4 +14,5 @@ It is born when i was in university, it died after i passed the class. It resurr
 I am (Süleyman Turan) its (not so proud) parent.
 ## DEMO
 ![](https://github.com/suleymanturan/8086_gui_calculator/blob/main/Gif/Demo.gif)
+(Rightmost black patch is caused by video recording software i promise)
 
