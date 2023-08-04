@@ -13,6 +13,5 @@
 ## WHO?
     I am (Süleyman Turan) its (not so proud) parent.
 ## DEMO
-
     ![](https://github.com/suleymanturan/8086_gui_calculator/blob/main/Gif/Demo.gif)
 
