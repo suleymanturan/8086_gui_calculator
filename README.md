@@ -1,23 +1,18 @@
 # 8086_gui_calculator
 
-WHAT?
-
+##WHAT?
     This is a simple (for modern standards) calculator program for Intel 8086 CPU with a horrendous gui.
-WHY?
-
+##WHY?
     It started as a university assignment, then transformed into an interesting project, finally become a pain in the eyes.
-HOW?
-
+##HOW?
     It parses input expression, converts it to Reverse Polish Notation and after solving it displays the result on its glorious UI.
-WHERE?
-
+##WHERE?
     It can be assembled by masm611 and can be used in DOSBOX or other emulation software (Please get a real calculator).
-WHEN?
-
-    It is born when i was in university, it died after i passed the class. It resurrected when i stumbled upon it on my old rusty harddrive (What is git?).
-WHO?
-
+##WHEN?
+    harddrive (What is git?).
+##WHO?
     I am (Süleyman Turan) its (not so proud) parent.
-DEMO
+##DEMO
+
     ![](https://github.com/suleymanturan/8086_gui_calculator/blob/main/Gif/Demo.gif)
 
